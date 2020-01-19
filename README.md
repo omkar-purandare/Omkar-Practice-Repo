@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for Omkar's Practice Repository for GitHub Practice Assignment in STAT 184
 
 You can use the [editor on GitHub](https://github.com/omkar-purandare/Omkar-Practice-Repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
